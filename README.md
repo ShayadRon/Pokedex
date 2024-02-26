@@ -9,3 +9,9 @@ The information contained in this dataset include Base Stats, Performance agains
 2. EDA
 3. Decision Tree predictive model
 5. Clustering
+
+![](chart1.png)
+
+![](chart2.png)
+
+![](chart3.png)
