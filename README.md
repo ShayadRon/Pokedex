@@ -1,4 +1,4 @@
-# Poedex - EDA, Decision Tree, PCA and Clustering
+# Pokedex - EDA, Decision Tree, PCA and Clustering
 
 ## About
 This dataset contains information on all 802 Pokemon from all Seven Generations of Pokemon. 
